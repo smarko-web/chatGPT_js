@@ -78,7 +78,7 @@ const handleSubmit = async (e) => {
 
     //fetch data from server -> bot's response
 
-    const response = await fetch('http://localhost:4000', { 
+    const response = await fetch('hhttps://codex-chat-bot-a3cd.onrender.com/', { 
         method: 'POST',
         headers: {
             //'Authorization': `Bearer ${process.env.OPENAI_API_KEY}`,
