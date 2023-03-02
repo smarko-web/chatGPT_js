@@ -30,7 +30,7 @@ This self challenge was encouraged by this [YouTube video](https://www.youtube.c
 Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
 
 To see how you can add code snippets, see below:
-
+*the following block of commands are attributed by [Brad Traversy](https://gist.github.com/bradtraversy/09177818de0f43a6e74e2cd05d1fe596)*
 ```console
     # GET VERSION
   npm -v (or --version)
